@@ -1,0 +1,6 @@
+.profile:hover .dropdown{
+    display:flex;
+    flex-direction: column;
+    
+}
+
